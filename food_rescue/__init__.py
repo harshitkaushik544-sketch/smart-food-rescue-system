@@ -4,4 +4,4 @@ A real-life software solution connecting food donors with local NGOs and shelter
 """
 
 __version__ = "1.0.0"
-__author__ = "Aharhsit Surender Kaushik"
+__author__ = "HARSHIT SURENDER KAUSHIK"

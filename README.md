@@ -128,4 +128,4 @@ python -m unittest discover tests
 ---
 
 ## 👨‍💻 Author
-**Aharhsit Surender Kaushik**
+**HARSHIT SURENDER KAUSHIK**
